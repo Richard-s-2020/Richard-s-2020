@@ -1,0 +1,17 @@
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.exe
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.deps.json
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.runtimeconfig.json
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.runtimeconfig.dev.json
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.dll
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\bin\Debug\netcoreapp3.1\Richard Set-Up.pdb
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.csproj.AssemblyReference.cache
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard_Set_Up.Form1.resources
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.csproj.GenerateResource.cache
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.AssemblyInfoInputs.cache
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.AssemblyInfo.cs
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.csproj.CoreCompileInputs.cache
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.dll
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.pdb
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard Set-Up.genruntimeconfig.cache
+C:\Users\rspreij\source\repos\Richard Set-Up\Richard Set-Up\obj\Debug\netcoreapp3.1\Richard_Set_Up.Properties.Resources.resources
